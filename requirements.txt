@@ -1,9 +1,0 @@
-streamlit
-PyPDF2
-python-docx
-docx2txt
-requests
-nltk
-numpy
-networkx
-scipy
